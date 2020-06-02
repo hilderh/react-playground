@@ -1,3 +1,7 @@
+# react-playground
+
+Lets move from Angular to React practicing every day. Ok?
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
